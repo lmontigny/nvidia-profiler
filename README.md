@@ -1,4 +1,5 @@
 # nvidia-profiler
+Commands to use the nvidia profiler, nsight systems and nsight compute.
 
 ## Check status
 ```
