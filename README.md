@@ -18,5 +18,3 @@ ncu -o profile  python main.py
 ncu -o profile --set full
 ```
 
-ncu-ui profile.ncu-rep
-
